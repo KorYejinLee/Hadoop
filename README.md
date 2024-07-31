@@ -13,3 +13,5 @@
 ### <ul>코덱을 이용하여 파일 압축</ul>
 ### <ul>코덱 팩토리를 이용하여 서버에서 압출 풀기</ul>
 ### <ul>코덱 풀은 성능 향상을 위하여 사용됨</ul>
+### 5. 3_3_file_based_data_structure
+### <ul>SequenceFile 쓰고 읽는 예제</ul>
