@@ -19,5 +19,5 @@
 ### <ul>WordCount 예제</ul>
 ### 7. 4_2_1_Sort_Word_Count
 ### <ul>WordCount Sort</ul>
-### [See the README.md](https://github.com/KorYejinLee/Hadoop/blob/master/bigdata/4_2_1_Sort_Word_Count/README.md)
+### <ul>[See the README.md](https://github.com/KorYejinLee/Hadoop/blob/master/bigdata/4_2_1_Sort_Word_Count/README.md)</ul>
 
