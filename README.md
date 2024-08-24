@@ -15,3 +15,9 @@
 ### <ul>코덱 풀은 성능 향상을 위하여 사용됨</ul>
 ### 5. 3_3_file_based_data_structure
 ### <ul>SequenceFile 쓰고 읽는 예제</ul>
+### 6. 4_2_extracting_big_data_words
+### <ul>WordCount 예제</ul>
+### 7. 4_2_1_Sort_Word_Count
+### <ul>WordCount Sort</ul>
+### [See the README.md](https://github.com/KorYejinLee/Hadoop/blob/master/bigdata/4_2_1_Sort_Word_Count/README.md)
+
