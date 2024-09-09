@@ -11,7 +11,7 @@ WordCount 예제를 활용하여 주어진 입력 세트에서 각 단어가 나
 https://velog.io/@ellcoding/WordCountSort
 
 ## Notion
-[https://www.notion.so/Word-Count](https://www.notion.so/Word-Count-d7990411d0dc4d6e9588050e4a7b40f1)
-
+[[[https://www.notion.so/Word-Count](https://www.notion.so/Word-Count-d7990411d0dc4d6e9588050e4a7b40f1)
+](https://stump-goose-4c9.notion.site/Word-Count-d7990411d0dc4d6e9588050e4a7b40f1?pvs=4)](https://stump-goose-4c9.notion.site/Word-Count-d7990411d0dc4d6e9588050e4a7b40f1?pvs=4)
 ## 결과물
 ![image](https://github.com/user-attachments/assets/00aadfdb-0c83-4306-b44b-bc90a4b644ff)
